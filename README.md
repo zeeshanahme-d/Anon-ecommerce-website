@@ -4,7 +4,7 @@ Anon is E-commerce website, full responsive for all mobile devices, built using 
 
 ## Demo
 
-https://anon-ecommerce-web.netlify.app
+https://anon-e-commerce-web.netlify.app
 
 ## Installing Anon
 
